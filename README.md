@@ -6,6 +6,10 @@
 - [Building](#building)
 - [Testing](#testing)
 
+# Summary
+
+This project is an implementation and simulation of a Single-Cycle Processor Design supporting the RISC-V 32 ADDI, LUI, ORI, SLTIU, SRA, SUB, AND, LBU, LW, SH, SW, BNE, JALR instructions.
+
 # Single-Cycle Processor Design
 
 ![Design Diagram](design-diagram.jpeg)
