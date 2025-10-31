@@ -8,7 +8,7 @@
 
 # Summary
 
-This project is an implementation and simulation of a Single-Cycle Processor Design supporting the RISC-V 32 ADDI, LUI, ORI, SLTIU, SRA, SUB, AND, LBU, LW, SH, SW, BNE, JALR instructions.
+This project is an implementation and simulation of a Single-Cycle Processor Design supporting the RISC-V 32 ADDI, LUI, ORI, SLTIU, SRA, SUB, AND, LBU, LW, SH, SW, BNE, JALR instructions. When compiled, ./cpusim will take in an input file as an argument (the assembly code in hex, separated by newlines) and output the resulting value of a0 and a1.
 
 # Single-Cycle Processor Design
 
